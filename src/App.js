@@ -10,7 +10,7 @@ function App() {
       style={{height:"100vh"}}
       >
           <Grid item>
-              <h3>I am rebuilding everything with React.....</h3>
+              <h3>I am rebuilding everything with React....!</h3>
           </Grid>
       </Grid>
     </>
